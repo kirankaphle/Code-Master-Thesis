@@ -9,13 +9,13 @@ The UAV data was pre-processed by the Geoinformation in Environmental Planning L
 
 # Code
 Order of code
-1. R script for LiDAR metrics: Code for deriving LiDAR-based structural features
-2. Additional VIs: Code for calculating different VIs relevant to deadwood detection
-3. Fusion model: Code for LiDAR-multispectral fusion model alongisde further analysis for deadwood mapping 
+1. *R script for LiDAR metrics.R*: Code for deriving LiDAR-based structural features
+2. *Additional VIs.ipynb*: Code for calculating different VIs relevant to deadwood detection
+3. *Fusion model.ipynb*: Code for LiDAR-multispectral fusion model alongisde further analysis for deadwood mapping 
 
-I have added extensive comments and structured the code with clear Markdown sectioning.
+I have added extensive comments and structured the code with clear Markdown sectioning to improve readability and organization.
 
-# Contact Kiran Kaphle
+# Contact
 Feel free to connect with me on LinkedIn: www.linkedin.com/in/kirankaphleep
 
 
