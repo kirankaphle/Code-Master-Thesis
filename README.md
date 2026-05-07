@@ -1,5 +1,5 @@
-# Master's Thesis Overview
-As part of my master’s thesis, I derived relevant features from UAV LiDAR and multispectral data, combined them, and subsequently applied a Random Forest algorithm to map standing and downed deadwood in the Harz region of Germany.
+# Overview
+As part of my Master’s Thesis work, I derived relevant features from UAV LiDAR and multispectral data, combined them, and subsequently applied a Random Forest algorithm to map standing and downed deadwood in the Harz region of Germany.
 Multiple LiDAR-derived structural features were generated using the lidR package, with all processing conducted in R. In parallel, several vegetation indices were calculated from the multispectral imagery in JupyterLab. These datasets were then combined for further analysis, including classification performance assessment, feature importance analysis, and the generation of prediction maps in JupyterLab.
 Classification performance was evaluated across three datasets: LiDAR-only, multispectral-only, and fusion (LiDAR + multispectral), and three scenarios: standing deadwood, downed deadwood, and a multi-class scenario including both deadwood types.
 Overall, the study highlights the potential of UAV-based LiDAR-multispectral fusion for improving deadwood detection and spatial mapping in disturbed forests. 
